@@ -13,4 +13,4 @@ I enjoy building things — from software to hardware projects with microcontrol
 ![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge&logo=espressif&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-grey?style=for-the-badge)
 
-### Here you can find some of my projects and experiments.
+Here you can find some of my side projects and experiments.
