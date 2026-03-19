@@ -1,6 +1,7 @@
 ## Hi, I'm Marcel.
 
 I enjoy building things — from software to hardware projects with microcontrollers.
+
 I also enjoy 3D printing, run my own homelab, and love open-source software.
 
 ### Tech I work with
